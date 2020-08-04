@@ -7,7 +7,7 @@ body {
   height: 100vh;
 }
 
-.login-box {
+.container my-5 {
   width: 320px;
   height: 360px;
   background: #19274f;
